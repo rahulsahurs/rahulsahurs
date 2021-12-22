@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rahulsahurs
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning Django Framework
-- 💞️ I’m looking to collaborate on Django Backends
+- 👋 Hi, I’m @rahulsahurs.
+- 👀 I’m interested in Software Development.
+- 🌱 Working On My Coding Skills.
+- 💞️ I’m looking to collaborate on Java Based Projects.
 - 📫 How to reach me linkedin.com/in/rahul-s-518019195
 
 <!---
